@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=wordInContextScraper
+comment1.params=word
+comment1.target=java.util.ArrayList\ getExampleSentence(java.lang.String)
+numComments=2

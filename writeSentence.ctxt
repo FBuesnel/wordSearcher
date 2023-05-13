@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=writeSentence
+comment1.params=sentence\ word
+comment1.target=java.lang.Boolean\ recordSentence(java.lang.String,\ java.lang.String)
+numComments=2

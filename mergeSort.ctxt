@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=mergeSort
+comment1.params=f
+comment1.target=java.util.ArrayList\ sortSentences(java.io.File)
+comment2.params=arr\ n
+comment2.target=java.util.ArrayList\ mergeSort(java.util.ArrayList,\ int)
+comment3.params=arr\ leftArray\ rightArray\ left\ right
+comment3.target=void\ merge(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ int,\ int)
+numComments=4
